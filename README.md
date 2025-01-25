@@ -1,4 +1,4 @@
-# Linux-for-Sega-Genesis-Mega-Drive & SNES
+# Linux-for-Sega-Genesis-Mega-Drive, SNES, Game Boy, NES, Atari 2600
 Linux for Sega Genesis/Mega Drive & SNES
 I did this using SGDK!
 # Essential Commands for the Mega Drive Linux
@@ -103,4 +103,4 @@ Button A: Advances to the next letter (circular, from a to z).
 Button B: Adds the letter to the command.
 Button C: Deletes the last letter.
 Start Button: Executes the command or confirms the input.
-All the same commands for the SNES
+All the same commands for the SNES, Game Boy, NES, Atari 2600 are the same as the Mega Drive | Genesis
