@@ -103,4 +103,4 @@ Button A: Advances to the next letter (circular, from a to z).
 Button B: Adds the letter to the command.
 Button C: Deletes the last letter.
 Start Button: Executes the command or confirms the input.
-All the same commands for the SNES, Game Boy, NES, Atari 2600 are the same as the Mega Drive | Genesis
+All the same commands for the SNES, Game Boy, NES, Atari 2600 & GameCube are the same as the Mega Drive | Genesis
