@@ -1,4 +1,4 @@
-# Linux-for-Sega-Genesis-Mega-Drive, SNES, Game Boy, NES, Atari 2600
+# Linux for the Sega Genesis, Game Boy, SNES, NES & Atari 2600 & GameCube (v0.1)
 Linux for Sega Genesis/Mega Drive & SNES
 I did this using SGDK!
 # Essential Commands for the Mega Drive Linux
